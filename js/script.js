@@ -3,7 +3,7 @@ const productos = [
   {
     id: 1,
     Articulos: "Collar",
-    img: "./imagenes/collar.jpg",
+    img: "imagenes/collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "S"
@@ -12,7 +12,7 @@ const productos = [
   {
     id: 2,
     Articulos: "Collar",
-    img: "./imagenes/collar.jpg",
+    img: "../imagenes/collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "M"
@@ -388,7 +388,7 @@ btnSuscribirse.addEventListener("click", () => {
   Swal.fire({
     title: 'Gracias por suscribirte ' + nombre,
     text: 'Te enviaremos un correo con nuestras novedades a ' + correo,
-    imageUrl: '../imagenes/auto3.jpg',
+    imageUrl: 'imagenes/auto3.jpg',
     imageWidth: 400,
     imageHeight: 300,
     imageAlt: 'logo',
