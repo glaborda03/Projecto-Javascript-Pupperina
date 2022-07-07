@@ -3,7 +3,7 @@ const productos = [
   {
     id: 1,
     Articulos: "Collar",
-    img: "imagenes/Collar.jpg",
+    img: "../imagenes/Collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "S"
@@ -12,7 +12,7 @@ const productos = [
   {
     id: 2,
     Articulos: "Collar",
-    img: "imagenes/Collar.jpg",
+    img: "../imagenes/Collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "M"
@@ -21,7 +21,7 @@ const productos = [
   {
     id: 3,
     Articulos: "Collar",
-    img: "imagenes/Collar.jpg",
+    img: "../imagenes/Collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "L"
@@ -30,7 +30,7 @@ const productos = [
   {
     id: 4,
     Articulos: "Collar",
-    img: "imagenes/Collar.jpg",
+    img: "../imagenes/Collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "XL"
