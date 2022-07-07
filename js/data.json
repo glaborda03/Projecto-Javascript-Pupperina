@@ -5,7 +5,7 @@
     "Peso": "10-25kg",
     "Altura": "15-35cm",
     "Talle": "S",
-    "imagen":"../imagenes/razas/Welsh.jpg"
+    "imagen":"./imagenes/razas/Welsh.jpg"
 },
 
 {
@@ -14,7 +14,7 @@
     "Peso": "1-3kg",
     "Altura": "15-35cm",
     "Talle": "S",
-    "imagen":"../imagenes/razas/Yorkshire terrier.jpg"
+    "imagen":"./imagenes/razas/Yorkshire terrier.jpg"
 },
 
 {
@@ -23,7 +23,7 @@
     "Peso": "3-10kg",
     "Altura": "15-35cm",
     "Talle": "S",
-    "imagen":"../imagenes/razas/Dachshund.jpg"
+    "imagen":"./imagenes/razas/Dachshund.jpg"
 },
 
 {
@@ -32,7 +32,7 @@
     "Peso": "1-3kg",
     "Altura": "15-35cm",
     "Talle": "S",
-    "imagen":"../imagenes/razas/Caniche.jpg"
+    "imagen":"./imagenes/razas/Caniche.jpg"
 },
 
 {
@@ -41,7 +41,7 @@
     "Peso": "1-3kg",
     "Altura": "15-35cm",
     "Talle": "S",
-    "imagen":"../imagenes/razas/Bichon Maltes.jpg"
+    "imagen":"./imagenes/razas/Bichon Maltes.jpg"
 },
 
 {
@@ -50,7 +50,7 @@
     "Peso": "3-10kg",
     "Altura": "35-45cm",
     "Talle": "S",
-    "imagen":"../imagenes/razas/Pastor de Shetland.jpg"
+    "imagen":"./imagenes/razas/Pastor de Shetland.jpg"
 },
 
 
@@ -60,7 +60,7 @@
     "Peso": "3-10kg",
     "Altura": "15-35cm",
     "Talle": "S",
-    "imagen":"../imagenes/razas/Pinscher miniatura.jpg"
+    "imagen":"./imagenes/razas/Pinscher miniatura.jpg"
 },
 
 
@@ -70,7 +70,7 @@
     "Peso": "3-10kg",
     "Altura": "15-35cm",
     "Talle": "S",
-    "imagen":"../imagenes/razas/Pug.jpg"
+    "imagen":"./imagenes/razas/Pug.jpg"
 },
 
 
@@ -80,7 +80,7 @@
     "Peso": "3-10kg",
     "Altura": "15-35cm",
     "Talle": "S",
-    "imagen":"../imagenes/razas/Jack russell terrier.jpg"
+    "imagen":"./imagenes/razas/Jack russell terrier.jpg"
 },
 
 
@@ -90,7 +90,7 @@
     "Peso": "3-10kg",
     "Altura": "15-35cm",
     "Talle": "S",
-    "imagen":"../imagenes/razas/Bulldog frances.jpg"
+    "imagen":"./imagenes/razas/Bulldog frances.jpg"
 },
 
 {
@@ -99,7 +99,7 @@
     "Peso": "25-45kg",
     "Altura": "55-70cm",
     "Talle": "M",
-    "imagen":"../imagenes/razas/Boxer.jpg"
+    "imagen":"./imagenes/razas/Boxer.jpg"
 },
 
 {
@@ -108,7 +108,7 @@
     "Peso": "25-45kg",
     "Altura": "55-70cm",
     "Talle": "M",
-    "imagen":"../imagenes/razas/Pointer ingles.jpg"
+    "imagen":"./imagenes/razas/Pointer ingles.jpg"
 },
 
 {
@@ -117,7 +117,7 @@
     "Peso": "10-25kg",
     "Altura": "45-55cm",
     "Talle": "M",
-    "imagen":"../imagenes/razas/Border collie.jpg"
+    "imagen":"./imagenes/razas/Border collie.jpg"
 },
 
 {
@@ -126,7 +126,7 @@
     "Peso": "25-45kg",
     "Altura": "45-55cm",
     "Talle": "M",
-    "imagen":"../imagenes/razas/Chow chow.jpg"
+    "imagen":"./imagenes/razas/Chow chow.jpg"
 },
 
 {
@@ -135,7 +135,7 @@
     "Peso": "25-45kg",
     "Altura": "45-55cm",
     "Talle": "M",
-    "imagen":"../imagenes/razas/Bulldog ingles.jpg"
+    "imagen":"./imagenes/razas/Bulldog ingles.jpg"
 },
 
 {
@@ -144,7 +144,7 @@
     "Peso": "10-25kg",
     "Altura": "35-45cm",
     "Talle": "M",
-    "imagen":"../imagenes/razas/Setter irlandes.jpg"
+    "imagen":"./imagenes/razas/Setter irlandes.jpg"
 },
 
 {
@@ -153,7 +153,7 @@
     "Peso": "25-45kg",
     "Altura": "55-70cm",
     "Talle": "L",
-    "imagen":"../imagenes/razas/Akita inu.jpg"
+    "imagen":"./imagenes/razas/Akita inu.jpg"
 },
 
 {
@@ -162,7 +162,7 @@
     "Peso": "25-45kg",
     "Altura": "55-70cm",
     "Talle": "L",
-    "imagen":"../imagenes/razas/Labrador Retriever.jpg"
+    "imagen":"./imagenes/razas/Labrador Retriever.jpg"
 },
 
 {
@@ -171,7 +171,7 @@
     "Peso": "25-45kg",
     "Altura": "55-70cm",
     "Talle": "L",
-    "imagen":"../imagenes/razas/Pastor Aleman.jpg"
+    "imagen":"./imagenes/razas/Pastor Aleman.jpg"
 },
 
 
@@ -181,7 +181,7 @@
     "Peso": "45-100kg",
     "Altura": "55-70cm",
     "Talle": "L",
-    "imagen":"../imagenes/razas/Rottweiler.jpg"
+    "imagen":"./imagenes/razas/Rottweiler.jpg"
 },
 
 {
@@ -190,7 +190,7 @@
     "Peso": "25-45kg",
     "Altura": "55-70cm",
     "Talle": "L",
-    "imagen":"../imagenes/razas/Husky siberiano.jpg"
+    "imagen":"./imagenes/razas/Husky siberiano.jpg"
 },
 
 
@@ -200,7 +200,7 @@
     "Peso": "45-100kg",
     "Altura": "55-70cm",
     "Talle": "L",
-    "imagen":"../imagenes/razas/Boyero de Berna.jpg"
+    "imagen":"./imagenes/razas/Boyero de Berna.jpg"
 },
 
 {
@@ -209,7 +209,7 @@
     "Peso": "45-100kg",
     "Altura": "55-70cm",
     "Talle": "XL",
-    "imagen":"../imagenes/razas/Fila brasileño.png"
+    "imagen":"./imagenes/razas/Fila brasileño.png"
 },
 
 {
@@ -218,7 +218,7 @@
     "Peso": "45-100kg",
     "Altura": "Mas de 80cm",
     "Talle": "XL",
-    "imagen":"../imagenes/razas/Mastín ingles.jpg"
+    "imagen":"./imagenes/razas/Mastín ingles.jpg"
 },
 
 {
@@ -227,7 +227,7 @@
     "Peso": "45-100kg",
     "Altura": "Mas de 80cm",
     "Talle": "XL",
-    "imagen":"../imagenes/razas/San Bernardo.jpg"
+    "imagen":"./imagenes/razas/San Bernardo.jpg"
 },
 
 {
@@ -236,7 +236,7 @@
     "Peso": "45-100kg",
     "Altura": "Mas de 80cm",
     "Talle": "XL",
-    "imagen":"../imagenes/razas/Gran danes.jpg"
+    "imagen":"./imagenes/razas/Gran danes.jpg"
 },
 
 {
@@ -245,6 +245,6 @@
     "Peso": "45-100kg",
     "Altura": "55-70cm",
     "Talle": "XL",
-    "imagen":"../imagenes/razas/Bullmastiff.jpg"
+    "imagen":"./imagenes/razas/Bullmastiff.jpg"
 }
 ]

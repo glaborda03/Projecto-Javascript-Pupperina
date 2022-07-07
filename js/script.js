@@ -3,7 +3,7 @@ const productos = [
   {
     id: 1,
     Articulos: "Collar",
-    img: "../imagenes/collar.jpg",
+    img: "./imagenes/collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "S"
@@ -12,7 +12,7 @@ const productos = [
   {
     id: 2,
     Articulos: "Collar",
-    img: "../imagenes/collar.jpg",
+    img: "./imagenes/collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "M"
@@ -21,7 +21,7 @@ const productos = [
   {
     id: 3,
     Articulos: "Collar",
-    img: "../imagenes/collar.jpg",
+    img: "./imagenes/collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "L"
@@ -30,7 +30,7 @@ const productos = [
   {
     id: 4,
     Articulos: "Collar",
-    img: "../imagenes/collar.jpg",
+    img: "./imagenes/collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "XL"
@@ -39,7 +39,7 @@ const productos = [
   {
     id: 5,
     Articulos: "Correa",
-    img: "../imagenes/correa.jpg",
+    img: "./imagenes/correa.jpg",
     Precio: 700,
     Descr: "Correa de 5mts en Tela, lavable 100% echo a mano",
     Tamaño: "S"
@@ -48,7 +48,7 @@ const productos = [
   {
     id: 6,
     Articulos: "Correa",
-    img: "../imagenes/correa.jpg",
+    img: "./imagenes/correa.jpg",
     Precio: 700,
     Descr: "Correa de 5mts en Tela, lavable 100% echo a mano",
     Tamaño: "M"
@@ -57,7 +57,7 @@ const productos = [
   {
     id: 7,
     Articulos: "Correa",
-    img: "../imagenes/correa.jpg",
+    img: "./imagenes/correa.jpg",
     Precio: 700,
     Descr: "Correa de 5mts en Tela, lavable 100% echo a mano",
     Tamaño: "L"
@@ -66,7 +66,7 @@ const productos = [
   {
     id: 8,
     Articulos: "Correa",
-    img: "../imagenes/correa.jpg",
+    img: "./imagenes/correa.jpg",
     Precio: 700,
     Descr: "Correa de 5mts en Tela, lavable 100% echo a mano",
     Tamaño: "XL"
@@ -76,7 +76,7 @@ const productos = [
   {
     id: 9,
     Articulos: "Arnes",
-    img: "../imagenes/arnes.jpg",
+    img: "./imagenes/arnes.jpg",
     Precio: 1200,
     Descr: "Arnes resistente en Tela, lavable 100% echo a mano",
     Tamaño: "S"
@@ -85,7 +85,7 @@ const productos = [
   {
     id: 10,
     Articulos: "Arnes",
-    img: "../imagenes/arnes.jpg",
+    img: "./imagenes/arnes.jpg",
     Precio: 1200,
     Descr: "Arnes resistente en Tela, lavable 100% echo a mano",
     Tamaño: "M"
@@ -94,7 +94,7 @@ const productos = [
   {
     id: 11,
     Articulos: "Arnes",
-    img: "../imagenes/arnes.jpg",
+    img: "./imagenes/arnes.jpg",
     Precio: 1200,
     Descr: "Arnes resistente en Tela, lavable 100% echo a mano",
     Tamaño: "L"
@@ -104,7 +104,7 @@ const productos = [
   {
     id: 12,
     Articulos: "Arnes",
-    img: "../imagenes/arnes.jpg",
+    img: "./imagenes/arnes.jpg",
     Precio: 1200,
     Descr: "Arnes resistente en Tela, lavable 100% echo a mano",
     Tamaño: "XL"
@@ -113,7 +113,7 @@ const productos = [
   {
     id: 13,
     Articulos: "Cama",
-    img: "../imagenes/cama.jpg",
+    img: "./imagenes/cama.jpg",
     Precio: 1400,
     Descr: "Camas personalizadas, desmontables y lavables.",
     Tamaño: "S"
@@ -122,7 +122,7 @@ const productos = [
   {
     id: 14,
     Articulos: "Cama",
-    img: "../imagenes/cama.jpg",
+    img: "./imagenes/cama.jpg",
     Precio: 1600,
     Descr: "Camas personalizadas, desmontables y lavables.",
     Tamaño: "M"
@@ -131,7 +131,7 @@ const productos = [
   {
     id: 15,
     Articulos: "Cama",
-    img: "../imagenes/cama.jpg",
+    img: "./imagenes/cama.jpg",
     Precio: 1800,
     Descr: "Camas personalizadas, desmontables y lavables.",
     Tamaño: "L"
@@ -140,7 +140,7 @@ const productos = [
   {
     id: 16,
     Articulos: "Cama",
-    img: "../imagenes/cama.jpg",
+    img: "./imagenes/cama.jpg",
     Precio: 2000,
     Descr: "Camas personalizadas, desmontables y lavables.",
     Tamaño: "XL"
