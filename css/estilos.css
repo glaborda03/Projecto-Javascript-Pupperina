@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+    font-family: 'Oswald', sans-serif;
+   
+}
+
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    letter-spacing: 1rem;
+    padding: 2rem;
+    background-color: #9ADCFF;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+    margin-bottom: 1rem;
+}
+.titulo{
+    color: white;
+    font-size: 55px;
+}
+
+.icons button{
+
+    font-size: 2.5rem;
+    margin-left: 2rem;
+    color: rgb(249, 249, 249);
+    cursor: pointer;
+    background: #ffafbc00;
+    border: 1.5px solid #ff9dad00;
+    border-radius: 20px;
+}
+    .icons button:hover{
+        color: #203239;
+    }
+.tienda{
+    padding: 1rem;
+    margin-left: 5%;
+}
+.newsbackground{
+    background-color: #9ADCFF;
+}
+.newslleter{
+   
+    width: 30%;
+    margin-left: 35%;
+    
+    justify-content: center;
+}
+.newsbutton{
+    margin-bottom: 5rem;
+}
+
+.talles{
+    margin-left: 3rem;
+}
+.guiaTamaños{
+    width: 16%;
+    margin-bottom: 5rem;
+    margin-left: 3rem;
+    display: flex;
+    
+}
+.card{
+    width: 60%;
+}
+
+#cardContainer{
+    margin-top: 3rem;
+    background-color: #203239;
+    margin-left: 5%;
+    margin-right: 5%;
+}

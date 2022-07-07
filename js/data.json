@@ -1,0 +1,250 @@
+[
+{
+    "Raza": "Welsh Corgi Pembroke",
+    "Tamaño": "Pequeño",
+    "Peso": "10-25kg",
+    "Altura": "15-35cm",
+    "Talle": "S",
+    "imagen":"../imagenes/razas/Welsh.jpg"
+},
+
+{
+    "Raza": "Yorkshire terrier",
+    "Tamaño": "Pequeño",
+    "Peso": "1-3kg",
+    "Altura": "15-35cm",
+    "Talle": "S",
+    "imagen":"../imagenes/razas/Yorkshire terrier.jpg"
+},
+
+{
+    "Raza": "Dachshund",
+    "Tamaño": "Pequeño",
+    "Peso": "3-10kg",
+    "Altura": "15-35cm",
+    "Talle": "S",
+    "imagen":"../imagenes/razas/Dachshund.jpg"
+},
+
+{
+    "Raza": "Caniche",
+    "Tamaño": "Pequeño",
+    "Peso": "1-3kg",
+    "Altura": "15-35cm",
+    "Talle": "S",
+    "imagen":"../imagenes/razas/Caniche.jpg"
+},
+
+{
+    "Raza": "Bichon Maltes",
+    "Tamaño": "Pequeño",
+    "Peso": "1-3kg",
+    "Altura": "15-35cm",
+    "Talle": "S",
+    "imagen":"../imagenes/razas/Bichon Maltes.jpg"
+},
+
+{
+    "Raza": "Pastor de Shetland",
+    "Tamaño": "Pequeño",
+    "Peso": "3-10kg",
+    "Altura": "35-45cm",
+    "Talle": "S",
+    "imagen":"../imagenes/razas/Pastor de Shetland.jpg"
+},
+
+
+{
+    "Raza": "Pinscher miniatura",
+    "Tamaño": "Pequeño",
+    "Peso": "3-10kg",
+    "Altura": "15-35cm",
+    "Talle": "S",
+    "imagen":"../imagenes/razas/Pinscher miniatura.jpg"
+},
+
+
+{
+    "Raza": "Pug",
+    "Tamaño": "Pequeño",
+    "Peso": "3-10kg",
+    "Altura": "15-35cm",
+    "Talle": "S",
+    "imagen":"../imagenes/razas/Pug.jpg"
+},
+
+
+{
+    "Raza": "Jack russell terrier",
+    "Tamaño": "Pequeño",
+    "Peso": "3-10kg",
+    "Altura": "15-35cm",
+    "Talle": "S",
+    "imagen":"../imagenes/razas/Jack russell terrier.jpg"
+},
+
+
+{
+    "Raza": "Bulldog frances",
+    "Tamaño": "Pequeño",
+    "Peso": "3-10kg",
+    "Altura": "15-35cm",
+    "Talle": "S",
+    "imagen":"../imagenes/razas/Bulldog frances.jpg"
+},
+
+{
+    "Raza": "Boxer",
+    "Tamaño": "Mediano",
+    "Peso": "25-45kg",
+    "Altura": "55-70cm",
+    "Talle": "M",
+    "imagen":"../imagenes/razas/Boxer.jpg"
+},
+
+{
+    "Raza": "Pointer ingles",
+    "Tamaño": "Mediano",
+    "Peso": "25-45kg",
+    "Altura": "55-70cm",
+    "Talle": "M",
+    "imagen":"../imagenes/razas/Pointer ingles.jpg"
+},
+
+{
+    "Raza": "Border collie",
+    "Tamaño": "Mediano",
+    "Peso": "10-25kg",
+    "Altura": "45-55cm",
+    "Talle": "M",
+    "imagen":"../imagenes/razas/Border collie.jpg"
+},
+
+{
+    "Raza": "Chow chow",
+    "Tamaño": "Mediano",
+    "Peso": "25-45kg",
+    "Altura": "45-55cm",
+    "Talle": "M",
+    "imagen":"../imagenes/razas/Chow chow.jpg"
+},
+
+{
+    "Raza": "Bulldog ingles",
+    "Tamaño": "Mediano",
+    "Peso": "25-45kg",
+    "Altura": "45-55cm",
+    "Talle": "M",
+    "imagen":"../imagenes/razas/Bulldog ingles.jpg"
+},
+
+{
+    "Raza": "Setter irlandes",
+    "Tamaño": "Mediano",
+    "Peso": "10-25kg",
+    "Altura": "35-45cm",
+    "Talle": "M",
+    "imagen":"../imagenes/razas/Setter irlandes.jpg"
+},
+
+{
+    "Raza": "Akita inu",
+    "Tamaño": "Grande",
+    "Peso": "25-45kg",
+    "Altura": "55-70cm",
+    "Talle": "L",
+    "imagen":"../imagenes/razas/Akita inu.jpg"
+},
+
+{
+    "Raza": "Labrador Retriever" ,
+    "Tamaño": "Grande",
+    "Peso": "25-45kg",
+    "Altura": "55-70cm",
+    "Talle": "L",
+    "imagen":"../imagenes/razas/Labrador Retriever.jpg"
+},
+
+{
+    "Raza": "Pastor Aleman",
+    "Tamaño": "Grande",
+    "Peso": "25-45kg",
+    "Altura": "55-70cm",
+    "Talle": "L",
+    "imagen":"../imagenes/razas/Pastor Aleman.jpg"
+},
+
+
+{
+    "Raza": "Rottweiler",
+    "Tamaño": "Grande",
+    "Peso": "45-100kg",
+    "Altura": "55-70cm",
+    "Talle": "L",
+    "imagen":"../imagenes/razas/Rottweiler.jpg"
+},
+
+{
+    "Raza": "Husky siberiano",
+    "Tamaño": "Grande",
+    "Peso": "25-45kg",
+    "Altura": "55-70cm",
+    "Talle": "L",
+    "imagen":"../imagenes/razas/Husky siberiano.jpg"
+},
+
+
+{
+    "Raza": "Boyero de Berna",
+    "Tamaño": "Grande",
+    "Peso": "45-100kg",
+    "Altura": "55-70cm",
+    "Talle": "L",
+    "imagen":"../imagenes/razas/Boyero de Berna.jpg"
+},
+
+{
+    "Raza": "Fila brasileño",
+    "Tamaño": "Gigante",
+    "Peso": "45-100kg",
+    "Altura": "55-70cm",
+    "Talle": "XL",
+    "imagen":"../imagenes/razas/Fila brasileño.png"
+},
+
+{
+    "Raza": "Mastín ingles",
+    "Tamaño": "Gigante",
+    "Peso": "45-100kg",
+    "Altura": "Mas de 80cm",
+    "Talle": "XL",
+    "imagen":"../imagenes/razas/Mastín ingles.jpg"
+},
+
+{
+    "Raza": "San Bernardo",
+    "Tamaño": "Gigante",
+    "Peso": "45-100kg",
+    "Altura": "Mas de 80cm",
+    "Talle": "XL",
+    "imagen":"../imagenes/razas/San Bernardo.jpg"
+},
+
+{
+    "Raza": "Gran danes",
+    "Tamaño": "Gigante",
+    "Peso": "45-100kg",
+    "Altura": "Mas de 80cm",
+    "Talle": "XL",
+    "imagen":"../imagenes/razas/Gran danes.jpg"
+},
+
+{
+    "Raza": "Bullmastiff",
+    "Tamaño": "Gigante",
+    "Peso": "45-100kg",
+    "Altura": "55-70cm",
+    "Talle": "XL",
+    "imagen":"../imagenes/razas/Bullmastiff.jpg"
+}
+]
