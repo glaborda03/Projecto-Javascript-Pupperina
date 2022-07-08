@@ -40,7 +40,7 @@
 
 .tienda {
     padding: 1rem;
-    margin-left: 5%;
+    
 }
 
 .newsbackground {
@@ -73,6 +73,7 @@
 
 .card {
     width: 60%;
+    margin: 4rem;
 }
 
 #cardContainer {
@@ -80,4 +81,18 @@
     background-color: #203239;
     margin-left: 5%;
     margin-right: 5%;
+}
+@media screen and (max-width: 768px) {
+
+    .titulo{
+        display: none;
+    }
+
+    .tienda {
+       margin: auto;
+    }
+    .prueba {
+        margin: auto;
+
+    }
 }

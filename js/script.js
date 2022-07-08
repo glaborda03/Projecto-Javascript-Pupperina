@@ -3,7 +3,7 @@ const productos = [
   {
     id: 1,
     Articulos: "Collar",
-    img: "../imagenes/Collar.jpg",
+    img: "imagenes/Collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "S"
@@ -12,7 +12,7 @@ const productos = [
   {
     id: 2,
     Articulos: "Collar",
-    img: "../imagenes/Collar.jpg",
+    img: "imagenes/Collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "M"
@@ -21,7 +21,7 @@ const productos = [
   {
     id: 3,
     Articulos: "Collar",
-    img: "../imagenes/Collar.jpg",
+    img: "imagenes/Collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "L"
@@ -30,7 +30,7 @@ const productos = [
   {
     id: 4,
     Articulos: "Collar",
-    img: "../imagenes/Collar.jpg",
+    img: "imagenes/Collar.jpg",
     Precio: 500,
     Descr: "Collar de Tela, lavable 100% echo a mano",
     Tamaño: "XL"
@@ -154,8 +154,8 @@ let DivId = document.getElementById("productos");
 const renderProductos = (array) => {
   for (let elementos of array) {
     let div = document.createElement("div");
-    div.className = "card";
-    div.style = "width: 18rem; margin : 4rem";
+    div.className = "card prueba";
+    div.style = "width: 18rem";
 
     div.innerHTML = `
         <img src="${elementos.img}" class="card-img-top" alt="imagenes de productos">
@@ -164,7 +164,7 @@ const renderProductos = (array) => {
         <p class="card-text">${elementos.Descr}</p>
         <h4> Talle - ${elementos.Tamaño}</h4>
         <h3> $U ${elementos.Precio}</h3>
-         <a type="button" class="btn btn-primary" id="product-${elementos.id}">Comprar</a>
+         <a type="button" class="btn btn-primary" id="product-${elementos.id}">Agregar al Carrito</a>
         </div>
         `;
     console.log(div);
@@ -353,7 +353,7 @@ function createHTML(array) {
   array.forEach((raza) => {
     const card = `
             <div class="col">
-                <div class="card h-100 ">
+                <div class="card h-100 prueba ">
                     <img src="${raza.imagen}" class="card-img-top" alt="${raza.Raza}">
                     <div class="card-body">
                         <h5 class="card-title">${raza.Raza}</h5>
