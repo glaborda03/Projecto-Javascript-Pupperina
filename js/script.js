@@ -113,7 +113,7 @@ const productos = [
   {
     id: 13,
     Articulos: "Cama",
-    img: "imagenes/Cama.jpg",
+    img: "imagenes/foto.jpg",
     Precio: 1400,
     Descr: "Camas personalizadas, desmontables y lavables.",
     Tamaño: "S"
@@ -122,7 +122,7 @@ const productos = [
   {
     id: 14,
     Articulos: "Cama",
-    img: "imagenes/cama.jpg",
+    img: "imagenes/foto.jpg",
     Precio: 1600,
     Descr: "Camas personalizadas, desmontables y lavables.",
     Tamaño: "M"
@@ -131,7 +131,7 @@ const productos = [
   {
     id: 15,
     Articulos: "Cama",
-    img: "imagenes/cama.jpg",
+    img: "imagenes/foto.jpg",
     Precio: 1800,
     Descr: "Camas personalizadas, desmontables y lavables.",
     Tamaño: "L"
@@ -140,7 +140,7 @@ const productos = [
   {
     id: 16,
     Articulos: "Cama",
-    img: "imagenes/cama.jpg",
+    img: "imagenes/foto.jpg",
     Precio: 2000,
     Descr: "Camas personalizadas, desmontables y lavables.",
     Tamaño: "XL"
